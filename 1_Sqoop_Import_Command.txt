@@ -1,0 +1,6 @@
+sqoop import \
+--connect jdbc:mysql://sandbox.hortonworks.com:3306/retail_db \
+--username retail_dba \
+--password hadoop \
+--table categories \
+-m 6
