@@ -1,0 +1,3 @@
+This will have some text to test word count program using pig script.
+
+This will also used to demonstrate to get started using pig in Hadoop eco system
