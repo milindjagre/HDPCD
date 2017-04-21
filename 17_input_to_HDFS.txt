@@ -1,0 +1,2 @@
+a sample input file
+to load into HDFS
