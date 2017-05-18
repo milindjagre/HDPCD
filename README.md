@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to HDPCD Repository
 
-You can use the [editor on GitHub](https://github.com/milindjagre/HDPCD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use this repository for preparing the Hortonworks Data Platform Certified Developer certification.
+The link for the certification is https://hortonworks.com/services/training/certification/exam-objectives/#hdpcd
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Following objectives are tested through this certification
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## DATA INGESTION
+- Import data from a table in a relational database into HDFS
+- Import the results of a query from a relational database into HDFS
 
-- Bulleted
-- List
+## DATA TRANSFORMATION
+- Write and execute a Pig script
+- Load data into a Pig relation without a schema
 
-1. Numbered
-2. List
+## DATA ANALYSIS
+- Write and execute a Hive query
+- Define a Hive-managed table
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/milindjagre/HDPCD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hope you guys like it.
+You can visit my LinkedIn profile at https://www.linkedin.com/in/milindjagre/
