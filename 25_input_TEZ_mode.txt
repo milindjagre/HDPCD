@@ -1,0 +1,3 @@
+this is a sample input file
+to demonstrate running pig script
+using TEZ as execution mode.
