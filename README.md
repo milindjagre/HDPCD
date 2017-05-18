@@ -20,5 +20,7 @@ The link for the certification is https://hortonworks.com/services/training/cert
 - Write and execute a Hive query
 - Define a Hive-managed table
 
+```markdown
+
 Hope you guys like it.
 You can visit my LinkedIn profile at https://www.linkedin.com/in/milindjagre/
